@@ -1,6 +1,4 @@
 #scripts
-=======
-
 This repo contains scripts that I've found useful over the years
 
 ## ChromeApp
