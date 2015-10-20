@@ -105,7 +105,7 @@ if [ -f ~/personalize/terminal/.bash_init ]; then
         . ~/personalize/terminal/.bash_init
 fi
 
-alias reload='source ~/.bash_profile'
+alias reload='source ~/.zshrc'
 
 # MacPorts Installer addition on 2014-10-19_at_17:49:26: adding an appropriate PATH variable for use with MacPorts.
 export PATH="/opt/local/bin:/opt/local/sbin:$PATH"
