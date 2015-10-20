@@ -4,6 +4,8 @@ This repo contains scripts that I've found useful over the years
 ## ChromeApp
 
 Creates an app using google chrome with it's own profile, great alternative to fluid as it enables extensions.
+### How to use it
+`./ChromeApp.sh`
 
 ## hFromCpp
 
