@@ -1,0 +1,10 @@
+set number
+set ts=8
+set shiftwidth=4
+set sts=4
+set expandtab
+set smartindent
+set copyindent
+set smarttab
+set mouse=a
+syntax on

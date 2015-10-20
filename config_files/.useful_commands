@@ -1,0 +1,5 @@
+pbcopy              pwd | pbcopy                            copies to clipboard
+istats              opt: all, scan                          shows info about mac sensors
+cow_fortune                                                 cow saying fortune sentences
+pushd PATH                                                  pushes directory
+popd                                                        pops directory on top
