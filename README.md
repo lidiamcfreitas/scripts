@@ -13,7 +13,7 @@ Creates an app using google chrome with it's own profile, great alternative to f
 ```
 
 
-## hFromCpp
+## h_from_cpp
 
 Generates header files from cpp files
 
